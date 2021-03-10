@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,OACE,aACF,CAEA,KACE,kBACF","file":"main.3d2fff21.chunk.css","sourcesContent":[".title {\n  color: palevioletred;\n}\n\n.App {\n  padding-left: 200px;\n}\n"]}
